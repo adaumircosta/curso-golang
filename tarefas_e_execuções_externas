@@ -1,0 +1,4 @@
+9.Explorando os Comandos no Terminal
+go get -u github.com/go-sql-driver/mysql
+
+
